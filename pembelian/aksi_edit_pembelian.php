@@ -2,7 +2,7 @@
 	include "../koneksi.php";
 
 	$id=$_POST['id'];
-	$tanggal=$_POST['tanggal'];
+	$tanggal=date('y/m/d');
 	$jumlahbeli=$_POST['jumlahbeli'];
 	$nometer=$_POST['nometer'];
 	$totalkwh=$_POST['totalkwh'];

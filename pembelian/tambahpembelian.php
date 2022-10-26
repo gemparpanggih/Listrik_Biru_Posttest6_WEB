@@ -90,7 +90,7 @@
 					<tr>
 						<td>TANGGAL PEMBELIAN</td>
 						<td>:</td>
-						<td><input type="date" name="tanggal" id="tanggal" value="<?php echo date('d/m/y'); ?>"></td>		
+						<td><input type="text" name="tanggal" id="tanggal" value="<?php echo date('d/m/y'); ?>"></td>		
 					</tr>
 					<tr>
 						<td>JUMLAH PEMBELIAN</td>
