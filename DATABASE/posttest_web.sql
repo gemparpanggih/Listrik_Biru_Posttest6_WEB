@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 26, 2022 at 02:53 PM
+-- Generation Time: Oct 26, 2022 at 02:55 PM
 -- Server version: 10.4.24-MariaDB
 -- PHP Version: 8.1.6
 
@@ -41,11 +41,9 @@ CREATE TABLE `admin` (
 INSERT INTO `admin` (`id`, `username`, `password`, `nama`) VALUES
 (14, 'gempar', 'gempar', 'Gempar Panggih Dwi Putra'),
 (15, 'admin', '$2y$10$slEvXKNhSb2VLQR8LL9xju99cik5drgv.74xPhV/7Dy3vG1WtomEa', 'Admin Tampan dan Berani'),
-(16, 'andi', '$2y$10$2OrEsgJH4JUeUxRLK8L0iuwy1uDS8wXsZWDLGVtZBWOJzczvZY.F2', 'Andi Alfian'),
 (17, 'acun', '$2y$10$.27IqPwF0JQ8soD3WtzKXu7e/0.B36lHwm8D1byti6XyoRebP66ym', 'Acun th Destroyer'),
 (19, 'kipak', '$2y$10$DvprUpZb8woxLeNwaixn3urzHMDvUBxl1/Vp.XrytwgpjRRVmcZGq', 'Kipak the Fak'),
 (20, 'rider', '$2y$10$i5g4EftKUhaL41rGjnbH0u5z339t3rN7DGmYBetWaAF/Ut3zduFPK', 'Kamen Rider'),
-(21, 'daffa', '$2y$10$Vl8ORBysUQSX92hkxu.QR.4z8gxs.Xoi/rVEomyqDd/XTelGkObGO', 'Muhammad Daffa Putra Maha'),
 (23, 'tapir', '$2y$10$/f3WYZDt1sPJ50C6udo5qOEAd2VjsRspPopja6zM56pIrCi.58jLO', 'Tapir Boom'),
 (25, 'admin', '$2y$10$5NA0udHRctwntiWH52OpZOhwaV/wx5jewZP9PhUE1/YYiBNJ5gbti', 'siuuuu'),
 (26, 'acul', '$2y$10$q8/0h9GYzCXxnvEgo9.AaOYLwjBxZ9bFBVWXqZ4kUtv0vEjVZThwq', 'Acul the Acun');
