@@ -16,6 +16,9 @@
 	</div>
 	<br>
 		<center>
+			<?php 
+				echo "Waktu sekarang ". date("h:i:sa");
+			?><br><br>
 			<input type="button" value="TAMBAH DATA" onclick="location.href='tambahpembelian.php'">
 		</center>
 		<br>
